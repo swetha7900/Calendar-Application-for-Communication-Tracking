@@ -1,0 +1,62 @@
+{
+  "companies": [
+    {
+      "id": "4681",
+      "companyName": "ENTNT",
+      "location": "India",
+      "communicationPeriodicity": "7"
+    },
+    {
+      "id": "6fbc",
+      "companyName": "APPLE",
+      "location": "California, US",
+      "communicationPeriodicity": "10"
+    },
+    {
+      "id": "ccb9",
+      "companyName": "TATA",
+      "location": "Bangalore, India",
+      "communicationPeriodicity": "15"
+    },
+    {
+      "companyName": "Mohit Upadhyayy",
+      "location": "India",
+      "communicationPeriodicity": "3",
+      "id": "2959"
+    }
+  ],
+  "methods": [
+    {
+      "id": "4681",
+      "companyName": "ENTNT",
+      "location": "India",
+      "communicationPeriodicity": "7"
+    },
+    {
+      "id": "6fbc",
+      "companyName": "APPLE",
+      "location": "California, US",
+      "communicationPeriodicity": "10"
+    },
+    {
+      "id": "ccb9",
+      "companyName": "TATA",
+      "location": "Bangalore, India",
+      "communicationPeriodicity": "15"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "username": "user",
+      "password": "user123",
+      "role": "user"
+    }
+  ]
+}
